@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My New",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitiamolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum          numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident",
+      "author": "Party",
+      "id": 1
+    },
+    {
+      "title": "dsfsf",
+      "body": "sdff",
+      "author": "Ninja",
+      "id": 2
+    }
+  ]
+}
